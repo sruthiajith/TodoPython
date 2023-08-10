@@ -1,0 +1,15 @@
+.banner
+{
+  background-color:DarkGoldenRod;
+  width :100%;
+  height :100px;
+  margin-bottom:30px;
+}
+.banner-text
+{
+top:50px;
+left:50px;
+position:absolute;
+transform:transform;
+
+}
